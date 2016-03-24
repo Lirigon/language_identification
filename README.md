@@ -9,5 +9,5 @@ It outputs to the screen the language of the document and a sorted ranking of al
 ## Usage ##
 Basic usage:
 ```
-python languageIdentification.py <input.txt>
+python language_identification.py <input.txt>
 ```
